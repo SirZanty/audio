@@ -1,0 +1,1 @@
+#header{cursor:not-allowed}#main{display:flex;flex-direction:column;justify-content:center;align-items:center;align-content:center;margin:15px}#name,#phone{padding:10px;margin:10px;height:100%;width:90%}#button{color:#fff;border-color:#f73942;background-color:#ff000d;font-size:26px;font-family:Arial;border-radius:6px;height:100%;width:100%}#button:hover{background-color:#08f}
